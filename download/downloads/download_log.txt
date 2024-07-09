@@ -1,0 +1,7 @@
+2024-07-09 00:12:30.141875 Плейлист: 1000-3 найден
+
+
+2024-07-09 00:13:35.126708 - Скачан файл: паралич
+
+2024-07-09 00:14:21.172924 - Ошибка при скачивании Babyswishh1 / Shadowraze - psiblades (текст песни): [Errno 2] No such file or directory: 'C:\\Users\\User\\Desktop\\donload\\downloads/playlist/1000-3/Babyswishh1 / Shadowraze - psiblades (текст песни).mp3'
+
